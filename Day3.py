@@ -32,3 +32,4 @@ if __name__ == "__main__":
     print(reverse_text("LangChain"))
     print(word_count("Hugging Face makes NLP easy"))
     print(fake_llm_response("What is GenAI?"))
+print("hello, World!")
